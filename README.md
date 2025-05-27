@@ -10,7 +10,10 @@ en cada iteración $k$, donde se normaliza el vector resultante.
 
 La estimación del autovalor dominante en la iteración $k$ se calcula con:
 
-$${\Large \lambda_𝑘 =\frac{𝑣_𝑘^𝑇 𝐴 𝑣_𝑘}{𝑣_𝑘^𝑇 u_𝑘}}$$
+$$
+{\Large \lambda_k = \frac{\mathbf{v}_k^T A \mathbf{v}_k}{\mathbf{v}_k^T \mathbf{v}_k}}
+$$
+
 ​
  
 ​
